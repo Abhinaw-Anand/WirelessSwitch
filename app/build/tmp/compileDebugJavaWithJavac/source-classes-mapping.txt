@@ -1,0 +1,7 @@
+Bluetooth/Switch/BuildConfig.java
+ Bluetooth.Switch.BuildConfig
+Bluetooth/Switch/BluetoothConnectionService.java
+ Bluetooth.Switch.BluetoothConnectionService
+ Bluetooth.Switch.BluetoothConnectionService$AcceptThread
+ Bluetooth.Switch.BluetoothConnectionService$ConnectThread
+ Bluetooth.Switch.BluetoothConnectionService$ConnectedThread
